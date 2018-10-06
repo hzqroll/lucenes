@@ -37,11 +37,39 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-core -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-core</artifactId>
             <version>7.5.0</version>
         </dependency>
+
+        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.lucene/lucene-queryparser &ndash;&gt;
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-queryparser</artifactId>
+            <version>7.5.0</version>
+        </dependency>
+
+        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.lucene/lucene-highlighter &ndash;&gt;
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-highlighter</artifactId>
+            <version>7.5.0</version>
+        </dependency>
+
+        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.lucene/lucene-queries &ndash;&gt;
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-queries</artifactId>
+            <version>7.5.0</version>
+        </dependency>
+
+        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.lucene/lucene-analyzers-common &ndash;&gt;
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers-common</artifactId>
+            <version>7.5.0</version>
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.getopt.luke/luke -->
         <dependency>
